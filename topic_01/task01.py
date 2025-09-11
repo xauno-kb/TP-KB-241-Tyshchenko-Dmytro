@@ -1,11 +1,8 @@
 str = "abcdefg123"
-str2 = str
-i = len(str)
-k = 0
+str_reversed = ""
 
-for len(str) in str:
-    str2[k] = str[i]
-    --i
-    ++k
-print(str2)
-print(str)
+for ch in str:
+    str_reversed = ch + str_reversed
+
+print("String: " + str)
+print("Reversed String: " + str_reversed)
