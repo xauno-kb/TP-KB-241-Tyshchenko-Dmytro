@@ -1,0 +1,11 @@
+lst = [1, 2, 3]
+lst.append(4)
+lst.extend([5, 6])
+lst.insert(2, 99)
+lst.remove(2)
+copy_lst = lst.copy()
+lst.sort()
+lst.reverse()
+lst.clear()
+print("Original list after clear:", lst)
+print("Copied list:", copy_lst)
