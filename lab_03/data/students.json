@@ -1,0 +1,20 @@
+[
+  {
+    "student_id": 1,
+    "first_name": "Dmyto",
+    "last_name": "Tyshchenko",
+    "birthdate": "2005-11-08",
+    "grades": [
+      5.0,
+      5.0,
+      5.0
+    ]
+  },
+  {
+    "student_id": 2,
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "birthdate": "2001-11-11",
+    "grades": []
+  }
+]
